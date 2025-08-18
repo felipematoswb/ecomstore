@@ -1,0 +1,51 @@
+**Crie um template de site de e-commerce moderno e limpo, inspirado na estética e funcionalidade do Shopify. O design deve ser focado na experiência do usuário, com uma navegação intuitiva e um layout responsivo que se adapte perfeitamente a desktops e dispositivos móveis.**
+
+**O template deve incluir as seguintes páginas, cada uma com seções e elementos específicos:**
+
+**1. Homepage:**
+    * Um grande banner principal para promoções.
+    * Uma seção "Produtos em Destaque" com uma grade de produtos.
+    * Uma seção "Categorias Populares" com imagens e links.
+    * Uma seção de "Depoimentos de Clientes" em formato de carrossel.
+    * Um rodapé com links para as páginas de políticas, contato e redes sociais.
+
+**2. Página de Coleção:**
+    * Um cabeçalho com o nome e a descrição da coleção.
+    * Uma grade de produtos com imagem, nome, preço e botão "Adicionar ao Carrinho".
+    * Filtros na barra lateral para ordenar por preço, relevância e data de lançamento.
+
+**3. Página de Produto:**
+    * Uma galeria de imagens do produto com zoom.
+    * Nome do produto, preço, e uma breve descrição.
+    * Opções de seleção para variações como tamanho e cor.
+    * Um botão de "Adicionar ao Carrinho" proeminente.
+    * Abas com "Descrição Detalhada", "Especificações Técnicas" e "Avaliações de Clientes".
+    * Uma seção de "Produtos Relacionados".
+
+**4. Página de Carrinho:**
+    * Uma lista detalhada dos produtos no carrinho com opções para alterar a quantidade ou remover itens.
+    * O subtotal do pedido.
+    * Um campo para inserir um código de cupom.
+    * Um botão claro para "Finalizar Compra".
+
+**5. Páginas de Checkout:**
+    * Um processo de checkout em etapas: Informações de Contato, Entrega e Pagamento.
+    * Layout limpo e focado na conversão.
+
+**6. Páginas de Conta do Cliente:**
+    * Páginas de Login e Criação de Conta.
+    * Um painel do cliente com acesso ao Histórico de Pedidos e Endereços.
+
+**7. Páginas Informativas:**
+    * Página "Sobre Nós" com espaço para texto e imagens.
+    * Página "Fale Conosco" com um formulário de contato e informações de contato.
+    * Página de "FAQ" com um layout de perguntas e respostas sanfonado.
+
+**8. Páginas Legais (no rodapé):**
+    * Templates de texto para "Política de Privacidade", "Termos de Serviço", "Política de Envio" e "Política de Devolução".
+
+**Estilo de Design:**
+* **Paleta de Cores:** Neutra e moderna (ex: branco, cinza claro, com uma cor de destaque para botões e links).
+* **Tipografia:** Fontes legíveis e limpas (sans-serif).
+* **Layout:** Espaçoso, com bastante uso de espaço em branco para focar nos produtos.
+* **Ícones:** Minimalistas e universalmente reconhecíveis.
